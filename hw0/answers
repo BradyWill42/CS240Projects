@@ -1,0 +1,17 @@
+Question 1: The output of the pwd command was /homes/cs240/public. The copy command I used was cp /homes/cs240/public/style_sample.c ~/cs240/hw0/
+Question 2:
+cs240
+  |---hw0
+       |---another_file
+       |---answers
+       |---my_file
+       |---my_file2
+       |---style_sample.c
+       |---style_sample.h
+Question 3: The difference between an absolute path and a relative path is that an absolute path is the exact location of a path in the file structure, starting at the root / and making your way down to the path of the file. A relative path is the path to a file relative to where you currently are in the file system, whether it be a subdirectory or parent directory of the current path of the file. 
+Question 4: 
+  cp ~/cs240/hw0-old/answers ~/cs240/hw0
+  cp ~/cs240/hw0-old/hello.c ~/cs240/hw0
+  cp ~/cs240/hw0-old/hello.h ~/cs240/hw0
+  /homes/will2828/cs240
+
